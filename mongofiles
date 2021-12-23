@@ -1,0 +1,11 @@
+password: cXSlp9UjDs507wfm
+
+url: mongodb+srv://anuj99:<cXSlp9UjDs507wfm>@clustera.36slt.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+
+dns servers: 192.168.0.1
+
+Creating app... done, nameless-thicket-25150
+https://nameless-thicket-25150.herokuapp.com/ | https://git.heroku.com/nameless-thicket-25150.git
+
+heroku  https://git.heroku.com/nameless-thicket-25150.git (fetch)
+heroku  https://git.heroku.com/nameless-thicket-25150.git (push)
