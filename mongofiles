@@ -9,3 +9,8 @@ https://nameless-thicket-25150.herokuapp.com/ | https://git.heroku.com/nameless-
 
 heroku  https://git.heroku.com/nameless-thicket-25150.git (fetch)
 heroku  https://git.heroku.com/nameless-thicket-25150.git (push)
+
+ https://nameless-thicket-25150.herokuapp.com/
+
+ To https://git.heroku.com/nameless-thicket-25150.git
+ * [new branch]      master -> master
